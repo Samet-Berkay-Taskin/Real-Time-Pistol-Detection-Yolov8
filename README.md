@@ -5,3 +5,5 @@
  ```bash
    pip install -r requirements.txt
    ```
+
+## Daha sonra programı çalıştırın.
