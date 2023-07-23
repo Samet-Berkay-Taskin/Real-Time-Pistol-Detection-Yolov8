@@ -7,3 +7,7 @@
    ```
 
 ### Programı çalıştırabilirsiniz.
+
+
+
+Bu programda kullanılan kendi veri setimizle eğittiğimiz Best.pt modelini nasıl eğitildiğini görmek isterseniz .[buradan](https://github.com/Samet-Berkay-Taskin/YOLOv8-Training-with-custom-data-Pistol-Detection-) ulaşabilirsiniz.
