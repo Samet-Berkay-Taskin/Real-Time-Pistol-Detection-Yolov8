@@ -1,2 +1,5 @@
 # Real-Time-Pistol-Detection-Yolov8
- Yolov8 ile eğitilmiş gerçek zamanlı tabanca tespiti yapan program.
+
+###Öncelikle indirmeniz gereken birçok model var bunları indirmek için PyCharmın terminaline pip install -r requirements.txt yazın.(Bu kısım biraz uzun sürebilir)
+
+
